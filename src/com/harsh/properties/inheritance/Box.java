@@ -1,5 +1,7 @@
 package com.harsh.properties.inheritance;
 
+// final can be used to prevent inheritance
+// Methods will also be final as well if the class is final
 public class Box {
 
     double h;
