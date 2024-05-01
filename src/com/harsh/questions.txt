@@ -1,0 +1,7 @@
+Q-1 Swapping using Integer Wrapper class
+Q-2 Why outer classes can't be static?
+Q-3 Method overloading and constructor overloading
+Q-4 Where singleton class can be used?
+Q-5 'super()' must be first statement in constructor body
+Q-6 Examples of single, multi-level inheritance
+Q-7 Why Java doesn't support multiple inheritance?
