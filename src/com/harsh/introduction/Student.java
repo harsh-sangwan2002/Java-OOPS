@@ -1,3 +1,5 @@
+package com.harsh.introduction;
+
 // Class is a template and doesn't occupy space in the memory
 // Class is a named group of properties and functions
 class Student{
