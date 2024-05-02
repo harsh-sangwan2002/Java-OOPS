@@ -1,0 +1,17 @@
+Encapsulation -
+1. Wrapping up the implementation of the data members & methods in a class.
+2. Implementation level issue is solved.
+3. Focuses on the internal working.
+4. Process of containing information.
+
+Abstraction -
+1. Hiding unnecessary details and showing only valuable information.
+2. Design level issue is solved.
+3. Focuses on external stuff.
+4. Process of gaining information.
+5. Abstract classes and interfaces.
+
+Data Hiding -
+1. Hiding data for the security whereas encapsulation concerns only about hiding the complexity of the system.
+2. Encapsulation is a sub-process in data hiding.
+3. It is achieved via encapsulation.

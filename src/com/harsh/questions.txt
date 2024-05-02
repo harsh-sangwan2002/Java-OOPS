@@ -5,3 +5,6 @@ Q-4 Where singleton class can be used?
 Q-5 'super()' must be first statement in constructor body
 Q-6 Examples of single, multi-level inheritance
 Q-7 Why Java doesn't support multiple inheritance?
+Q-8 What can be done in garbage collection?
+Q-9 Where can we use private constructor?
+Q-10 Why two classes can't be public?
