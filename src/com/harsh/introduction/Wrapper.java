@@ -36,6 +36,6 @@ public class Wrapper {
 //        x = 3;
 
         // final variables have to be initialised during declaration
-        final int   y = 2;
+        final int  y = 2;
     }
 }
