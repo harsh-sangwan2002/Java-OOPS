@@ -6,7 +6,7 @@ This repository contains examples and explanations of Object-Oriented Programmin
 
 ## Table of Contents
 
-- [com.harsh.introduction to OOP](#introduction-to-oop)
+- [com.harsh._01introduction to OOP](#introduction-to-oop)
 - [Classes and Objects](#classes-and-objects)
 - [Inheritance](#inheritance)
 - [Polymorphism](#polymorphism)
@@ -16,7 +16,7 @@ This repository contains examples and explanations of Object-Oriented Programmin
 - [Contributing](#contributing)
 - [License](#license)
 
-## com.harsh.introduction to OOP
+## com.harsh._01introduction to OOP
 
 Object-Oriented Programming (OOP) is a programming paradigm based on the concept of "objects," which can contain data in the form of fields (attributes) and code in the form of methods (functions). Java is a widely used programming language that supports OOP principles.
 
